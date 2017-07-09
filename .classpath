@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/selenium/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
